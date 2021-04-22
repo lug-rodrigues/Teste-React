@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.information input{
+  width: 300px;
+  padding-left: 5px;
+  margin: 5px;
+}
+
+.information button{
+  margin-top: 15px;
+}
+
+.products{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.Badge {
+  color: yellow;
+}
+
